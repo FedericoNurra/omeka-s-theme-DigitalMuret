@@ -1,6 +1,6 @@
 /* @preserve
  * fonctions développées spécifiquement pour le géo RETIF (à adapter pour les autres projets)
- * Federico Nurra, cellule d'ingénierie documentaire (CID), Département des études et de la recherche (DER) - Inha
+ * Federico Nurra, service numérique de la recherche (SNR), Département des études et de la recherche (DER) - INHA
 */
 
 // filtrer par auteur

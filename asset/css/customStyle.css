@@ -294,7 +294,6 @@ hr {
   background-color: rgba(96,171,157,0.5);
   z-index: 700;
   text-align: center;
-  vertical-align: middle;
 }
   }
   @media (min-width: 550px) and (max-width: 1023px) {
@@ -309,7 +308,6 @@ hr {
   background-color: rgba(96,171,157,0.5);
   z-index: 700;
   text-align: center;
-  vertical-align: middle;
 }
   }
   @media (min-width: 320px) and (max-width: 549px) {
@@ -332,7 +330,6 @@ hr {
   background-color: rgba(240,230,140,0.5);
   z-index: 1000;
   text-align: right;
-  vertical-align: middle;
   border-radius: 5px;
 }
   }
@@ -347,7 +344,6 @@ hr {
   background-color: rgba(240,230,140,0.5);
   z-index: 1000;
   text-align: right;
-  vertical-align: middle;
   border-radius: 5px;
 }
   }
